@@ -1,4 +1,4 @@
-# Exercism Solutions
+# exercism
 My exercism solutions on the [exercism tracks](https://exercism.org/tracks) that I have followed.
 
 ## Tracks
